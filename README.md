@@ -15,7 +15,7 @@ Run npm install to install the required packages.
 ## Usage
 After installation of the dependencies, the user can start the server using <$ npm start> and going to localhost.
 
-Applicaiton Deployment:
+Application Deployment:
 [https://belleza-budget.herokuapp.com/](https://belleza-budget.herokuapp.com/)
 
 ## Builtwith
